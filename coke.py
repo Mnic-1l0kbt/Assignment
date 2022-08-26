@@ -1,5 +1,5 @@
 #Python3 program that accepts define coins
-#return both remaining amount and change owed.
+#return both remaining amount and change owed.  
 coke_price = 50
 
 while coke_price > 0:
